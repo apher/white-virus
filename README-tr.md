@@ -1,6 +1,6 @@
 # White Virus
 
-> Dijital virüs estetiği üzerine interaktif bir PPSX sunumu
+> Çocuğun ders dışı projesi — dijital virüs estetiği üzerine interaktif bir PPSX sunumu
 
 [简体中文](README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
@@ -32,7 +32,7 @@
 
 ## 🎨 Proje hakkında
 
-- **Temel konsept**: Dijital virüs / Glitch estetiği
+- **Auteur**: APher (çocuğun ders dışı projesi)
 - **Kullanım senaryoları**: Dijital sanat sergisi, interaktif hikaye anlatımı, web gömme
 - **Format**: PPSX (Slayt Gösterisi, düzenlenemez)
 - **Galeri** → [https://white.apher.com](https://white.apher.com)

@@ -1,6 +1,6 @@
 # White 바이러스
 
-> 디지털 바이러스 미학에 관한 인터랙티브 PPSX 프레젠테이션
+> 아이의 과외 프로젝트 — 디지털 바이러스 미학에 관한 인터랙티브 PPSX 프레젠테이션
 
 [简体中文](README.md) · [English](README-en.md) · [日本語](README-ja.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
@@ -32,7 +32,7 @@
 
 ## 🎨 작품 소개
 
-- **핵심 컨셉**: 디지털 바이러스 / 글리치 에스테틱
+- **저자**: APher (아이, 과외 프로젝트)
 - **활용 시나리오**: 디지털 아트 전시, 인터랙티브 스토리텔링, 웹 임베딩
 - **포맷**: PPSX (슬라이드 쇼, 편집 불가)
 - **갤러리** → [https://white.apher.com](https://white.apher.com)

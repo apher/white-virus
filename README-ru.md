@@ -1,6 +1,6 @@
 # White Virus
 
-> Интерактивная PPSX-презентация об эстетике цифрового вируса
+> Детский внеклассный проект — интерактивная PPSX-презентация об эстетике цифрового вируса
 
 [简体中文](README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
@@ -32,7 +32,7 @@
 
 ## 🎨 О проекте
 
-- **Основная концепция**: Цифровой вирус / Глич-эстетика
+- **Auteur**: APher (детский внеклассный проект)
 - **Сценарии использования**: Цифровое арт-шоу, интерактивный сторителлинг, веб-встраивание
 - **Формат**: PPSX (Слайд-шоу, нередактируемый)
 - **Галерея** → [https://white.apher.com](https://white.apher.com)

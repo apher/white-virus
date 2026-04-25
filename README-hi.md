@@ -1,6 +1,6 @@
 # White Virus
 
-> डिजिटल वायरस सौंदर्यशास्त्र पर एक इंटरैक्टिव PPSX प्रस्तुति
+> बच्चे की पाठ्येतर परियोजना — डिजिटल वायरस सौंदर्यशास्त्र पर एक इंटरैक्टिव PPSX प्रस्तुति
 
 [简体中文](README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
@@ -32,7 +32,7 @@
 
 ## 🎨 परियोजना के बारे में
 
-- **मुख्य अवधारणा**: डिजिटल वायरस / ग्लिच सौंदर्यशास्त्र
+- **Auteur**: APher (बच्चे की पाठ्येतर परियोजना)
 - **उपयोग के मामले**: डिजिटल आर्ट प्रदर्शन, इंटरैक्टिव कथन, वेब एम्बेडिंग
 - **प्रारूप**: PPSX (स्लाइड शो, संपादन योग्य नहीं)
 - **गैलरी** → [https://white.apher.com](https://white.apher.com)

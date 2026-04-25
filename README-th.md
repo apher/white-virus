@@ -1,6 +1,6 @@
 # White Virus
 
-> งานนำเสนอ PPSX แบบโต้ตอบเกี่ยวกับสุนทรียศาสตร์ไวรัสดิจิทัล
+> โปรเจกต์กิจกรรมนอกหลักสูตรของเด็ก — งานนำเสนอ PPSX แบบโต้ตอบเกี่ยวกับสุนทรียศาสตร์ไวรัสดิจิทัล
 
 [简体中文](README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
@@ -32,7 +32,7 @@
 
 ## 🎨 เกี่ยวกับโปรเจกต์
 
-- **แนวคิดหลัก**: ไวรัสดิจิทัล / สุนทรียศาสตร์แบบกลิตช์
+- **Auteur**: APher (โปรเจกต์กิจกรรมนอกหลักสูตรของเด็ก)
 - **กรณีการใช้งาน**: นิทรรศการศิลปะดิจิทัล, การเล่าเรื่องแบบโต้ตอบ, การฝังเว็บ
 - **รูปแบบ**: PPSX (สไลด์โชว์, ไม่สามารถแก้ไขได้)
 - **แกลเลอรี** → [https://white.apher.com](https://white.apher.com)

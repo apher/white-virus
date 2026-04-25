@@ -1,6 +1,6 @@
 # White Virus
 
-> Bài thuyết trình PPSX tương tác về thẩm mỹ virus kỹ thuật số
+> Dự án ngoại khóa của bé — bài thuyết trình PPSX tương tác về thẩm mỹ virus kỹ thuật số
 
 [简体中文](README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
@@ -32,7 +32,7 @@
 
 ## 🎨 Về dự án
 
-- **Khái niệm cốt lõi**: Virus kỹ thuật số / Thẩm mỹ glitch
+- **Auteur**: APher (dự án ngoại khóa của bé)
 - **Trường hợp sử dụng**: Triển lãm nghệ thuật số, kể chuyện tương tác, nhúng web
 - **Định dạng**: PPSX (Trình chiếu, không thể chỉnh sửa)
 - **Bộ sưu tập** → [https://white.apher.com](https://white.apher.com)

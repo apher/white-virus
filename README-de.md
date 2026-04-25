@@ -1,6 +1,6 @@
 # White Virus
 
-> Eine interaktive PPSX-Präsentation zur Ästhetik des digitalen Virus
+> Ein außerschulisches Kinderprojekt — eine interaktive PPSX-Präsentation zur Ästhetik des digitalen Virus
 
 [简体中文](README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
@@ -32,7 +32,7 @@
 
 ## 🎨 Über das Projekt
 
-- **Kernkonzept**: Digitales Virus / Glitch-Ästhetik
+- **Auteur**: APher (außerschulisches Kinderprojekt)
 - **Anwendungsfälle**: Digitales Kunst-Display, interaktives Storytelling, Web-Einbettung
 - **Format**: PPSX (Bildschirmpräsentation, nicht bearbeitbar)
 - **Galerie** → [https://white.apher.com](https://white.apher.com)
