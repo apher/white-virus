@@ -2,7 +2,7 @@
 
 > 孩子的课外兴趣作业 —— 一个关于数字病毒美学的交互式 PPSX 演示
 
-[English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
+[English](docs/README-en.md) · [日本語](docs/README-ja.md) · [한국어](docs/README-ko.md) · [Español](docs/README-es.md) · [Français](docs/README-fr.md) · [Deutsch](docs/README-de.md) · [Português](docs/README-pt.md) · [Italiano](docs/README-it.md) · [Русский](docs/README-ru.md) · [العربية](docs/README-ar.md) · [हिंदी](docs/README-hi.md) · [Türkçe](docs/README-tr.md) · [Polski](docs/README-pl.md) · [Nederlands](docs/README-nl.md) · [Tiếng Việt](docs/README-vi.md) · [ไทย](docs/README-th.md) · [Bahasa Indonesia](docs/README-id.md) · [Українська](docs/README-uk.md)
 
 ---
 
