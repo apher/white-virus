@@ -9,22 +9,18 @@
 | 文件 | 说明 |
 |------|------|
 | `white病毒.ppsx` | 原始幻灯片放映文件（PowerPoint Show） |
-| `white病毒.pdf` | PDF 导出版，方便直接在线预览 |
 
 ## 🚀 快速开始
 
-### 方式一：直接播放 PPSX
+### 直接播放 PPSX
 1. 下载 `white病毒.ppsx`
 2. 用 PowerPoint 或 WPS 打开，选择**幻灯片放映**模式
-
-### 方式二：PDF 预览
-直接打开 `white病毒.pdf`，翻页浏览所有内容（动画在 PDF 中不保留，仅保留静态画面）
 
 ## 🌐 在线体验
 
 > **在线播放（嵌入 pdf.js）** → [https://white.apher.com/white-virus.html](https://white.apher.com/white-virus.html)
 
-> **PDF 下载** → [white病毒.pdf](https://white.apher.com/ppt-uploads/white%E7%97%85%E6%AF%92.pdf)
+> **作品首页** → [https://white.apher.com](https://white.apher.com)
 
 ## 🎨 关于作品
 
