@@ -14,7 +14,7 @@
 
 ### ⬇️ 直接下载
 
-**点击下载** → [white病毒.ppsx](https://github.com/apher/white-virus/releases/download/v1.0/white%E7%97%85%E6%AF%92.ppsx)
+**点击下载** → [white病毒.ppsx](https://github.com/apher/white-virus/releases/download/v1.0/white.ppsx)
 
 > 如果上述链接无法下载，请点击 [百度网盘备份下载]()（待补充）
 
