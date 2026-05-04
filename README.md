@@ -1,12 +1,11 @@
 # White 病毒 · White Virus
 
-> 孩子的课外兴趣作业 —— 一个关于数字病毒美学的交互式 PPSX 演示
-
+>
 [English](docs/README-en.md) · [日本語](docs/README-ja.md) · [한국어](docs/README-ko.md) · [Español](docs/README-es.md) · [Français](docs/README-fr.md) · [Deutsch](docs/README-de.md) · [Português](docs/README-pt.md) · [Italiano](docs/README-it.md) · [Русский](docs/README-ru.md) · [العربية](docs/README-ar.md) · [हिंदी](docs/README-hi.md) · [Türkçe](docs/README-tr.md) · [Polski](docs/README-pl.md) · [Nederlands](docs/README-nl.md) · [Tiếng Việt](docs/README-vi.md) · [ไทย](docs/README-th.md) · [Bahasa Indonesia](docs/README-id.md) · [Українська](docs/README-uk.md)
 
 ---
 
-**White 病毒** 是孩子（APher）的课外兴趣项目——一个以"数字病毒"为核心概念的交互式演示作品。通过 Windows 报错窗口、屏幕闪烁、弹窗轰炸等视觉元素，构建极具冲击力的数字叙事体验。
+**White 病毒** 是以"数字病毒"为核心概念的交互式演示作品。通过 Windows 报错窗口、屏幕闪烁、弹窗轰炸等视觉元素，构建极具冲击力的数字叙事体验。
 
 ## 📂 项目内容
 
@@ -32,7 +31,6 @@
 
 ## 🎨 关于作品
 
-- **作者**：APher（孩子，课外兴趣项目）
 - **适用场景**：数字艺术展示、交互叙事、网页嵌入
 - **原始格式**：PPSX（幻灯片放映，不可编辑）
 - **作品卡片** → [https://white.apher.com](https://white.apher.com)

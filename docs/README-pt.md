@@ -1,7 +1,6 @@
 # White Virus
 
-> Um projeto extracurricular infantil — uma apresentação PPSX interativa sobre estética de vírus digital
-
+>
 [简体中文](../README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Français](README-fr.md) · [Deutsch](README-de.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
 ---
@@ -32,7 +31,6 @@
 
 ## 🎨 Sobre o projeto
 
-- **Auteur**: APher (projeto extracurricular infantil)
 - **Casos de uso**: Exposição de arte digital, narrativa interativa, inserção web
 - **Formato**: PPSX (Apresentação de Slides, não editável)
 - **Galeria** → [https://white.apher.com](https://white.apher.com)

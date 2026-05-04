@@ -1,7 +1,6 @@
 # White Virus
 
-> Un projet parascolaire enfant — une présentation PPSX interactive sur l'esthétique du virus numérique
-
+>
 [简体中文](../README.md) · [English](README-en.md) · [日本語](README-ja.md) · [한국어](README-ko.md) · [Español](README-es.md) · [Deutsch](README-de.md) · [Português](README-pt.md) · [Italiano](README-it.md) · [Русский](README-ru.md) · [العربية](README-ar.md) · [हिंदी](README-hi.md) · [Türkçe](README-tr.md) · [Polski](README-pl.md) · [Nederlands](README-nl.md) · [Tiếng Việt](README-vi.md) · [ไทย](README-th.md) · [Bahasa Indonesia](README-id.md) · [Українська](README-uk.md)
 
 ---
@@ -32,7 +31,6 @@
 
 ## 🎨 À propos du projet
 
-- **Auteur**: APher (projet parascolaire enfant)
 - **Cas d'usage**: Exposition d'art numérique, narration interactive, intégration web
 - **Format**: PPSX (Diaporama, non modifiable)
 - **Galerie** → [https://white.apher.com](https://white.apher.com)
